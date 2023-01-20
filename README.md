@@ -1,2 +1,18 @@
 # Hotel-DBMS
-school group project where we implemented the theories of databases practically. Using Oracle SQL; We created ERD, EERD, and Relational models for a hotel database management system. Check all of our work in the project report inserted.
+this is a school group project about hotel database management system, where we implemented the theories of databases practically. 
+
+
+- Software used: "Oracle SQL"
+
+Contents:
+- ERD 
+- EERD 
+- Relational models 
+
+
+
+> Check all of our work in the project report inserted.
+
+
+credits:
+- Teammates which their names are mentioned in the first page of the report.
