@@ -8,6 +8,7 @@ Contents:
 - ERD 
 - EERD 
 - Relational models 
+- SQL implementation
 
 
 
